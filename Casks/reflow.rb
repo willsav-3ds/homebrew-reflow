@@ -1,7 +1,7 @@
 
 cask "reflow" do
-  version "1.3.1"
-  sha256 "6422ab69914ace1eb698a76c3440956c95e3d200f0472fba605ca3c30f8c16ed"
+  version "1.4.0"
+  sha256 "3de4651e413e546c9c0fa29efaa73c7c8791f52e3e50a6fa2974c626512bc6fc"
 
   url "https://github.com/willsav-3ds/ReFlow/releases/download/v#{version}-beta/ReFlow-v#{version}.zip"
   name "ReFlow"
